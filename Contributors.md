@@ -1,6 +1,7 @@
 # Contributors
 
 - [Héctor Marquez](https://github.com/Cookieracho)
+- [Adrian  Martinez](https://github.com/AdrianMartinez99)
 - [Saccha Agriel](https://github.com/sacchaagriel)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
